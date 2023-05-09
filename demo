@@ -1,1 +1,4 @@
-test
+ jekyll_demo
+        |- _layouts       用于存放模板文件的目录
+        |- _posts         用于存放blog文章的目录
+        |- _config.yml    jelyll的配置文件
